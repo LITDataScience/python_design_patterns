@@ -17,3 +17,9 @@ open for extension, closed for modification.
 
 To counter this, we have an Enterprise patter: `Specification Pattern`
 
+### Liskov Substitution Principle
+The third design principle is: `Liskov Substitution Principle(LSP)`
+
+This is one of a solid design principle named after [Barbara Liskov](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
+
+It states that if you have a base class, you should be able to derive other classes from it.
