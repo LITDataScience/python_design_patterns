@@ -23,3 +23,9 @@ The third design principle is: `Liskov Substitution Principle(LSP)`
 This is one of a solid design principle named after [Barbara Liskov](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
 
 It states that if you have a base class, you should be able to derive other classes from it.
+
+### Interface Segregation Principle
+The fourth design principle is: `Interface Segregation Principle(LSP)`
+
+It states that you don't insert too many methods or elements into an interface [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+
